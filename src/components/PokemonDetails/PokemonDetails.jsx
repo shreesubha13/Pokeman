@@ -46,7 +46,7 @@ function PokemonDetails(){
             </div>
             </div>
             <div className='pokemon-types'>
-                <h1>Type:</h1>Type:{pokemon.types.map(t => <span className='type' key={t.type.name}>{t.type.name}</span>)}
+                <h1>Type:</h1>{pokemon.types.map(t => <span className='type' key={t.type.name}>{t.type.name}</span>)}
             </div>
         </div>}
         </>

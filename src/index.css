@@ -1,3 +1,4 @@
 body{
-    background-color: blanchedalmond;
+    background:linear-gradient(to top right, #11998e,#38ef7d);
+    min-height: 100vh;
 }

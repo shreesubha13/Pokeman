@@ -9,7 +9,7 @@
     margin-top: 4rem;
     border: 1px solid black;
     border-radius: 20px;
-    background-color: rgb(233, 162, 229);
+    background-color: #eacda3;
     
 }
 .pokemon-image{
@@ -25,7 +25,7 @@
     margin-top: 1rem;
     font-weight: bold;
 }.pokemon:hover{
-    background-color: rgb(233, 114, 213);
+    background-color: #e6c08f;
 }
 .pokemon-wrapper{
     display:block;
